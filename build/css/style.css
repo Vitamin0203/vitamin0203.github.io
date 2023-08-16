@@ -4718,7 +4718,7 @@ img.video__media {
 @media (max-width: 767px) {
   .footer__item:first-child {
     position: static;
-    left: 0px;
+    left: unset;
   }
 }
 
