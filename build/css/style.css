@@ -4631,10 +4631,6 @@ img.video__media {
   }
 }
 
-.feedback {
-  margin-top: -51px;
-}
-
 .feedback__centerer {
   display: -ms-grid;
   display: grid;
@@ -4859,7 +4855,7 @@ img.video__media {
 
 .contacts {
   width: 100%;
-  padding: 78px 0 121px;
+  padding: 78px 0 64px 121px;
   margin: 0 auto;
   border-top: 1px solid #74819C;
 }
@@ -5020,7 +5016,7 @@ img.video__media {
   position: relative;
   background-color: #030a1a;
   color: #ffffff;
-  padding: 41px 104px 42px 103px;
+  padding: 41px 104px 38px 103px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -5468,7 +5464,7 @@ img.video__media {
 .reviews {
   width: 100%;
   max-width: 560px;
-  padding: 140px 0 170px;
+  padding: 140px 0 119px;
   margin: 0 auto;
 }
 @media (max-width: 1199px) {
